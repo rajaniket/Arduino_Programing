@@ -25,7 +25,7 @@ Additional softwre used
 1. Fing (for Ip finder)
 2. VNC viewer (for Wireles display)
 ```
-Additional softwre used 
+Additional Hardware used 
 ```
 1. Raspberry Pi 
 ```
